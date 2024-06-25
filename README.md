@@ -2,6 +2,8 @@
 
 This project involves an in-depth analysis of the Netflix titles dataset, followed by the development of a machine learning model to classify titles into Movies and TV Shows. The project includes data cleaning, exploratory data analysis (EDA), feature engineering, and model development using Python and its libraries in Google Colab.
 
+Project Link : https://colab.research.google.com/drive/19MKlGK9tyrhES-togGhOF2nN9c66_Zxl#scrollTo=C3JB6tsyvwQJ
+
 # Overview
 
 The primary objective of this project is to analyze Netflix titles and build a predictive model to classify whether a given title is a movie or a TV show. The analysis includes understanding trends, distributions, and relationships in the dataset. The machine learning model is trained using the Gradient Boosting Classifier.
